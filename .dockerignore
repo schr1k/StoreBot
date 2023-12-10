@@ -1,5 +1,7 @@
 venv
 .idea
 __pycache__
-.env
+README.md
 *.log
+.gitignore
+.git
